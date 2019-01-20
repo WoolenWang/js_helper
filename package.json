@@ -1,0 +1,26 @@
+{
+  "name": "js_helper",
+  "version": "1.0.0",
+  "description": "woolen_designed_js_helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WoolenWang/js_helper.git"
+  },
+  "keywords": [
+    "js_helper"
+  ],
+  "author": "woolen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WoolenWang/js_helper/issues"
+  },
+  "homepage": "https://github.com/WoolenWang/js_helper#readme",
+  "dependencies": {
+    "@log4js-node/log4js-api": "^1.0.2",
+    "log4js": "^3.0.6"
+  }
+}
