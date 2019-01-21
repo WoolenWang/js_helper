@@ -20,7 +20,5 @@
   },
   "homepage": "https://github.com/WoolenWang/js_helper#readme",
   "dependencies": {
-    "@log4js-node/log4js-api": "^1.0.2",
-    "log4js": "^3.0.6"
   }
 }
